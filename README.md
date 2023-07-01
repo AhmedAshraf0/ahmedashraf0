@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 <h3 align="center">A passionate mobile developer (Native Android developer & Cross Platform using Flutter))</h3>
-<img align="right" alt="Coding" width="400" src"https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedashraf0&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedashraf0" /> </p>
 
